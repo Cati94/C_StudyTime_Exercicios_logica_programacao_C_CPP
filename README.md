@@ -1,5 +1,12 @@
 # 🧠 C\_StudyTime – Exercícios de Lógica em C/C++
 
+
+
+![Ilustração](https://github.com/Cati94/C_StudyTime_Exercicios_logica_programacao_C_CPP/blob/main/c.png)
+
+
+
+
 Coleção de exercícios em linguagem **C e C++**, com foco em:
 
 * Estruturas condicionais (`if`, `else`);
